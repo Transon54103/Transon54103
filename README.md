@@ -15,13 +15,15 @@ I'm a **motivated junior .NET Developer** with a solid foundation in web develop
 - 📫 How to reach me: **transondev03@gmail.com**
 - ⚡ Fun fact: I love solving problems and contributing effectively to development
 
----
-
-🌐 You can view my online portfolio website for more information about me, my skills, projects, and contact details:
-
-[my-profile-psi-rust.vercel.app](https://my-profile-psi-rust.vercel.app/?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo#ProjectContainer)
-
----
+<div align="center">
+  
+### 🌐 Portfolio Website
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://my-profile-psi-rust.vercel.app/)
+  
+*Explore my complete portfolio with detailed information about my projects, skills, and professional journey*
+  
+</div>
 
 ## 📱 Connect with Me
 
@@ -88,56 +90,7 @@ I'm a **motivated junior .NET Developer** with a solid foundation in web develop
 - 🏗️ Applied NestJS architectural principles, including modular structure, Dependency Injection (DI), and Inversion of Control (IoC), to build scalable and maintainable backend services
 - 🧪 Participated in code reviews, testing, and performance optimization to ensure high-quality deliverables
 
-## 🎯 Featured Projects
-
-### 📚 [Book Selling Website](https://github.com/Transon54103/BookSellingWebsite)
-
-**April 2024 - September 2024**
-
-![.NET](https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-- 🛍️ Developed a full-stack web application using .NET 8, ASP.NET Core, Razor Pages, and Entity Framework
-- 🗃️ Used Code First approach for database modeling and migrations
-- 💳 Developed sales functionality including cart, checkout, and payment integration
-- 📊 Designed and implemented product and order management modules
-- 📈 Integrated sales statistics and reporting features for business insights
-- 🤖 Implemented a product recommendation feature using the Apriori algorithm to suggest frequently bought-together books
-- ☁️ Applied ASP.NET Core MVC architecture principles throughout the project
-- 🚀 Deployed the final application on Microsoft Azure
-
-### 🏨 [Hotel Booking Website](https://github.com/Transon54103/HotelBooking)
-
-**November 2024 - December 2024**
-
-![.NET](https://img.shields.io/badge/.NET_7-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=flat-square&logo=.net&logoColor=white)
-
-- 🏢 Built RESTful API using .NET 7 and ASP.NET Core Web API following industry best practices
-- 🔄 Implemented full CRUD functionality with HTTP GET, POST, PUT, DELETE methods
-- 🔗 Integrated Entity Framework Core with Code First Migrations and connections to SQL database
-- 🏗️ Applied the Repository Pattern and Dependency Injection (DI) for clean architecture and maintainability
-- 🔒 Secured APIs with authentication and authorization using .NET Identity and JWT
-
-### 💼 [Job Recruitment Website](https://github.com/Transon54103/JobRecruitment)
-
-**May 2025 - July 2025**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-
-- 🔧 Developed a RESTful API using NestJS and MongoDB for data persistence
-- 🔐 Implemented secure authentication using JWT
-- 🏗️ Designed and integrated efficient data models and API endpoints for recruitment functionality
-- 📋 Applied NestJS architectural principles, utilizing modular structure, Dependency Injection (DI), and Inversion of Control (IoC) to build scalable and maintainable features
-- 🌐 Followed the MVC pattern and implemented seamless MongoDB integration using NestJS best practices
-
-## 🎓 Education
+## Education
 
 **🎓 Bachelor of Computer Science**  
 _Hanoi University of Industry_ | **2021-2025**  
