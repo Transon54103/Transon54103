@@ -70,7 +70,7 @@ I'm a **motivated fresher .NET Developer** with a solid foundation in web develo
 
 ### 🔹 Node.js/NestJS Developer Intern | Wowup JSC
 
-**April 2025 - June 2025** | _Trinh Van Bo, Ha Noi_
+**April 2025 - June 2025** | _Vinh, Nghe An_
 
 - 🍽️ Contributed to the **TAUMI Restaurant Ordering System** project, developing backend features for menu management and order processing
 - 🔄 Worked as a backend developer focusing on building and maintaining RESTful APIs using NestJS
