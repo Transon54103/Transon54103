@@ -15,6 +15,14 @@ I'm a **motivated fresher .NET Developer** with a solid foundation in web develo
 - 📫 How to reach me: **transondev03@gmail.com**
 - ⚡ Fun fact: I love solving problems and contributing effectively to development
 
+---
+
+🌐 You can view my online portfolio website for more information about me, my skills, projects, and contact details:
+
+[my-profile-psi-rust.vercel.app](https://my-profile-psi-rust.vercel.app/?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo#ProjectContainer)
+
+---
+
 ## 📱 Connect with Me
 
 <div align="center">
