@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **motivated fresher .NET Developer** with a solid foundation in web development, back-end systems, and database management. I have hands-on experience with ASP.NET Core, Entity Framework, and RESTful API, and I'm actively building full-stack projects using MVC and SQL Server.
+I'm a **motivated junior .NET Developer** with a solid foundation in web development, back-end systems, and database management. I have hands-on experience with ASP.NET Core, Entity Framework, and RESTful API, and I'm actively building full-stack projects using MVC and SQL Server.
 
 - 🔭 I'm currently working on improving my skills in **.NET** and **Node.js**
 - 🌱 I'm learning advanced **ASP.NET Core**, **Entity Framework**, and **NestJS**
@@ -49,6 +49,7 @@ I'm a **motivated fresher .NET Developer** with a solid foundation in web develo
 ![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
