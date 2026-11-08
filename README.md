@@ -94,7 +94,6 @@ I'm a **motivated junior .NET Developer** with a solid foundation in web develop
 
 **🎓 Bachelor of Computer Science**  
 _Hanoi University of Industry_ | **2021-2025**  
-**GPA: 3.04**
 
 ## 🏆 Activities
 
